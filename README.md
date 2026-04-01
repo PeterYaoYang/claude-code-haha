@@ -39,6 +39,25 @@
 
 ---
 
+## 学习文档
+
+除了可运行版本本身，这个仓库现在也开始整理一套面向学习者的中文文档，重点不是情报挖掘，而是帮助后来者更快建立 Claude Code / Agent Engineering 的概念框架、阅读顺序和源码学习路径。
+
+- 文档总入口：[docs/README.md](./docs/README.md)
+- 学习路线图：[docs/00-导航/学习路线图.md](./docs/00-导航/学习路线图.md)
+
+如果你是第一次系统学 Claude Code，建议先读：
+
+1. [核心概念与最小闭环](./docs/01-入门基础/01-核心概念与最小闭环.md)
+2. [Harness Engineering](./docs/01-入门基础/02-Harness-Engineering.md)
+3. [Context / Context Engineering](./docs/01-入门基础/03-Context-Engineering.md)
+4. [Prompt / Instruction Design](./docs/01-入门基础/04-Prompt-Instruction-Design.md)
+5. [Permission / Safety Boundaries](./docs/01-入门基础/05-Permission-Safety-Boundaries.md)
+6. [Task / Workflow / Orchestration](./docs/01-入门基础/06-Task-Workflow-Orchestration.md)
+7. [Claude Code 为什么好用](./docs/02-Claude-Code-理解/01-Claude-Code-为什么好用.md)
+
+---
+
 ## 快速开始
 
 ### 1. 安装 Bun
